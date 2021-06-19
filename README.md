@@ -6,5 +6,4 @@ Rafa is a very nice turtle, but it is being threatened by some pollutants.
 You need to help Rafa to get rid of the dangers of the ocean, help him to protect himself by avoiding the dangers
 
 [LinkGame](https://scratch.mit.edu/projects/544617556/)
-
-<p align="center> <img width="470" src="https://imgur.com/ONdY74z"> </p>
+https://imgur.com/ONdY74z
