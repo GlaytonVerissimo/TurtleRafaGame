@@ -7,4 +7,4 @@ You need to help Rafa to get rid of the dangers of the ocean, help him to protec
 
 [LinkGame](https://scratch.mit.edu/projects/544617556/)
 
-<p align="center> <img width="470" src="MidiaTurtle.png"> </p>
+<p align="center> <img width="470" src="https://imgur.com/ONdY74z"> </p>
